@@ -1,1 +1,0 @@
-![Estilos arquitectónicos](./estilo-arquitectonico.png)
